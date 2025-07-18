@@ -1,7 +1,7 @@
 [
   {
     "id": "Marvel",
-    "name": "Marvel Collections",
+    "name": "The Marvel Collection",
     "category": "Popular Collections",
     "catalogIds": [],
     "displayMode": "Grid",
@@ -18,7 +18,7 @@
   },
   {
     "id": "DC",
-    "name": "DC Collections",
+    "name": "The DC Collection",
     "category": "Popular Collections",
     "catalogIds": [],
     "displayMode": "Grid",
@@ -35,7 +35,7 @@
   },
   {
     "id": "Star Wars",
-    "name": "Star Wars Collections",
+    "name": "The Star Wars Collection",
     "category": "Popular Collections",
     "catalogIds": [],
     "displayMode": "Grid",
@@ -52,7 +52,7 @@
   },
   {
     "id":"Wizarding World",
-    "name": "Wizarding World Collections",
+    "name": "The Wizarding World Collection",
     "category": "Popular Collections",
     "catalogIds": [],
     "displayMode": "Grid",
