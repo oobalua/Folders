@@ -100,6 +100,23 @@
     "textWeight": "Bold",
     "textColor": "#FFFFFF",
     "backgroundColor": "#000000"
+  },
+  {
+    "id": "paramountplus",
+    "name": "Paramount+ Collections",
+    "category": "Streaming Services",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Square",
+    "backgroundImageURL": "https://raw.githubusercontent.com/oobalua/Folders/refs/heads/main/IMG_1958.png",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000"
   }
 
 ]
