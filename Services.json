@@ -117,6 +117,23 @@
     "textWeight": "Bold",
     "textColor": "#FFFFFF",
     "backgroundColor": "#000000"
+  },
+  {
+    "id": "Crunchyroll",
+    "name": "Crunchyroll Collections",
+    "category": "Streaming Services",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Square",
+    "backgroundImageURL": "https://raw.githubusercontent.com/oobalua/Folders/refs/heads/main/4D8A3230-5545-400B-8952-DA0C60DB53B5.png",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000"
   }
 
 ]
